@@ -11,7 +11,7 @@ This is a beginner tutorial and complete course full of just over 4 hours of HTM
 - Chapter 5: Add Links: a
 - Chapter 6: Add Images: img
 - Chapter 7: Semantic Tags: header, main, footer, section, article, figure, aside
-- Chapter 8: Create Tables: table, thead, tbody, tfoot, tr>, td
+- Chapter 8: Create Tables: table, thead, tbody, tfoot, tr, td
 - Chapter 9: Forms & Inputs: form, input, label, fieldset, option, button
 - Chapter 10: HTML Project
 
