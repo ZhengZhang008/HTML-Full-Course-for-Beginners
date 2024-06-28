@@ -20,3 +20,4 @@ This is a beginner tutorial and complete course full of just over 4 hours of HTM
 - [W3C Markup Validation Service](https://validator.w3.org/)
 - [Placeholder for images](http://via.placeholder.com/640x360)
 - Free image resources: [unsplash](http://unsplash.com/); [pexels](http://pexels.com/); [gratisography](https://gratisography.com/); [pixabay](https://pixabay.com/)
+- [Emojipedia]https://emojipedia.org/
